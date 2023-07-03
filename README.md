@@ -1,8 +1,8 @@
-# Sample Hardhat Project
+# Sample Flash Loan Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
+This is Sample Flash Loan Project template, made for personal project. (Learning/testing purpose)
+ 
+Credit : @samnang
 
 ```shell
 npx hardhat help
